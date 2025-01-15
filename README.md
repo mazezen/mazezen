@@ -3,7 +3,7 @@
 
 
 ## Author is mazezen 👋
-![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&layout=compact&hide_border=true&langs_count=6&hide=html,css,CMake,Makefile,Blade,JavaScript,Less,C,SCSS,Dockerfile,shell)
+![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&layout=compact&hide_border=true&langs_count=6&hide=html,css,CMake,Makefile,Blade,JavaScript,Less,SCSS,Dockerfile,shell)
 
 <!-- - 🎓 CSU(master's degree) -->
 <!-- - - 🔗 [**mazezen's website**](http://caixiaoxin.cn) -->
