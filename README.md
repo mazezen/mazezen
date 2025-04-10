@@ -20,6 +20,7 @@
 * <a href="https://github.com/mazezen/daemon">daemon:</a> 守护程序. 被守护的程序挂掉之后,会自动将其唤醒
 * <a href="https://github.com/mazezen/admin-template">admin-template: </a>vue3+typescript+element-plus+pina+vite后台管理系统模版
 * <a href="https://github.com/mazezen/ERC20BirdBosPermit">ERC20BirdBosPermit: </a>基于 EIP-2612 Permit 模式 的 ERC20 Token 合约完整实现，使用 Solidity ^0.8.20，带有 permit 支持（链下授权，链上使用 permit 实现无 gas ）
+* 更多仓库点击<a href="https://github.com/mazezen?tab=repositories">repositories</a> 查看
 
 
 
