@@ -7,7 +7,6 @@
 
 ## **热门存储库**
 
-* <a href="https://github.com/mazezen/zen">zen:</a> Go Web Framework
 * <a href="https://github.com/mazezen/echoframe">echoframe:</a> Based on the echo framework, build a convenient scaffolding
 * <a href="https://github.com/mazezen/ginframe">ginframe:</a> 基于Go语言gin框架搭建的可快速开发的微服务脚手架
 * <a href="https://github.com/mazezen/sql2orm">sql2orm:</a> Convert sql to go structure, support gorm and xorm
