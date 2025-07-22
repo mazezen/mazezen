@@ -7,6 +7,9 @@
 
 <h2 id="programming-language">Programming language</h2>
   <p>
+    <a href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C Badge"/>
+    </a>
     <a href="https://golang.google.cn/"
       ><img
         src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff"
