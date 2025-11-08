@@ -50,6 +50,15 @@
         src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"
         alt=""
     /></a>
+    <a href="https://www.gnu.org/software/bash/">
+      <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff" alt="Shell" />
+    </a>
+    <a href="https://www.ruby-lang.org/">
+      <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffffff" alt="Ruby" />
+    </a>
+    <a href="https://kotlinlang.org/">
+      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
+    </a>
   </p>
 
 ## Npm package
