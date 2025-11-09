@@ -64,6 +64,10 @@
 ## Npm package
 - <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a>
 
+## Go modules
+- <a href="https://github.com/mazezen/itools">itools:</a> go语言项目常用工具包集合
+- <a href="https://github.com/mazezen/count-repeat">count-repeat:</a> count repeat item in string slice
+
 ## **热门存储库**
 
 - <a href="https://github.com/mazezen/zen">zen:</a> Go Web Framework
@@ -71,8 +75,8 @@
 - <a href="https://github.com/mazezen/ginframe">ginframe:</a> 基于 Go 语言 gin 框架搭建的可快速开发的微服务脚手架
 - <a href="https://github.com/mazezen/sql2orm">sql2orm:</a> Convert sql to go structure, support gorm and xorm
 - <a href="https://github.com/mazezen/command-fanyi">command-fanyi:</a> command-fanyi 命令行翻译工具,将命令执行的结果翻译成中文
-- <a href="https://github.com/mazezen/itools">itools:</a> go 语言项目常用工具包集合
 - <a href="https://github.com/mazezen/cgncode">cgncode: </a> 自动生成控制器层、service 层、数据层 CURD 代码
+- <a href="https://github.com/mazezen/mid">mid: </a> About高性能分布式 ID 生成系统
 - <a href="https://github.com/mazezen/ginblog">ginblog: </a> Web blog developed based on Go language (Gin+Gorm+MySQL)
 - <a href="https://github.com/mazezen/websshterminal">websshterminal:</a> go+echo+ssh+websocket+vue3 实现的 web 端通过 ssh 连接服务器
 - <a href="https://github.com/mazezen/goleveldbadmin">goleveldbadmin:</a> 基于 Go、Vu3、vite、Typescript、Element-Plus 实现的 leveldb 可视化平台
