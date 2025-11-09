@@ -76,7 +76,7 @@
 - <a href="https://github.com/mazezen/sql2orm">sql2orm:</a> Convert sql to go structure, support gorm and xorm
 - <a href="https://github.com/mazezen/command-fanyi">command-fanyi:</a> command-fanyi 命令行翻译工具,将命令执行的结果翻译成中文
 - <a href="https://github.com/mazezen/cgncode">cgncode: </a> 自动生成控制器层、service 层、数据层 CURD 代码
-- <a href="https://github.com/mazezen/mid">mid: </a> About高性能分布式 ID 生成系统
+- <a href="https://github.com/mazezen/mid">mid: </a> 高性能分布式 ID 生成系统
 - <a href="https://github.com/mazezen/ginblog">ginblog: </a> Web blog developed based on Go language (Gin+Gorm+MySQL)
 - <a href="https://github.com/mazezen/websshterminal">websshterminal:</a> go+echo+ssh+websocket+vue3 实现的 web 端通过 ssh 连接服务器
 - <a href="https://github.com/mazezen/goleveldbadmin">goleveldbadmin:</a> 基于 Go、Vu3、vite、Typescript、Element-Plus 实现的 leveldb 可视化平台
