@@ -3,8 +3,6 @@
 
 ## Welcome to mazezen GitHub👋
 
-![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&layout=compact&hide_border=true&langs_count=8) 
-
 <h2 id="programming-language">Programming language</h2>
   <p>
     <a href="https://www.cprogramming.com/">
