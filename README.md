@@ -3,7 +3,7 @@
 
 ## Welcome to mazezen GitHub👋
 
-![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&layout=compact&hide_border=true&langs_count=6&hide=html,css,CMake,Makefile,Blade,vue,JavaScript,Less,SCSS,Dockerfile,shell) 
+![My used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&layout=compact&hide_border=true&langs_count=8) 
 
 <h2 id="programming-language">Programming language</h2>
   <p>
