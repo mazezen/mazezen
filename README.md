@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=mazezen&show_icons=true&theme=radical" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mazezen&show_icons=true&theme=radical" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=mazezen&theme=flat" alt="logo" height="160" align="right" style="margin: 5px;margin-bottom: 20px;" /> -->
 
 ## Welcome to mazezen GitHub👋
