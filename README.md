@@ -61,8 +61,8 @@
 
 ## Command Tools
 
-- <a href="https://github.com/mazezen/command-fanyi">itools:</a> 命令行翻译工具,将命令执行的结果翻译成中文
-- <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
+- <a href="https://github.com/mazezen/command-fanyi">itools: </a> 命令行翻译工具,将命令执行的结果翻译成中文
+- <a href="https://www.npmjs.com/package/tstroncli">tstroncli:</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
 
 ## Go Modules
 
@@ -74,9 +74,9 @@
 
 - <a href="https://github.com/mazezen/base62">base62:</a> base62
 
-## Npm package
+<!-- ## Npm package
 
-- <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
+- <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI) -->
 
 ## **其他存储库**
 
