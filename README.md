@@ -1,5 +1,5 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mazezen&show_icons=true&theme=radical" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=mazezen&theme=flat" alt="logo" height="160" align="right" style="margin: 5px;margin-bottom: 20px;" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=mazezen&theme=flat" alt="logo" height="160" align="right" style="margin: 5px;margin-bottom: 20px;" />
 
 ## Welcome to mazezen GitHub👋
 
@@ -59,12 +59,21 @@
     </a>
   </p>
 
-## Npm package
-- <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a>
+## Command Tools
 
-## Go modules
-- <a href="https://github.com/mazezen/itools">itools:</a> go语言项目常用工具包集合
+- <a href="https://github.com/mazezen/command-fanyi">itools:</a> 命令行翻译工具,将命令执行的结果翻译成中文
+- <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
+
+## Go Modules
+
+- <a href="https://github.com/mazezen/itools">itools:</a> go 语言项目常用工具包集合
 - <a href="https://github.com/mazezen/count-repeat">count-repeat:</a> count repeat item in string slice
+- <a href="https://github.com/mazezen/loadbalance">loadbalance:</a> 随机、轮训、权重、哈希负载均衡
+- <a href="https://github.com/mazezen/go-scheduler">go-scheduler:</a> 定时任务调度器
+
+## Npm package
+
+- <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
 
 ## **热门存储库**
 
