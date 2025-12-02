@@ -78,21 +78,13 @@
 
 - <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
 
-## **热门存储库**
+## **其他存储库**
 
-- <a href="https://github.com/mazezen/zen">zen:</a> Go Web Framework
 - <a href="https://github.com/mazezen/echoframe">echoframe:</a> Based on the echo framework, build a convenient scaffolding
 - <a href="https://github.com/mazezen/ginframe">ginframe:</a> 基于 Go 语言 gin 框架搭建的可快速开发的微服务脚手架
 - <a href="https://github.com/mazezen/sql2orm">sql2orm:</a> Convert sql to go structure, support gorm and xorm
-- <a href="https://github.com/mazezen/command-fanyi">command-fanyi:</a> command-fanyi 命令行翻译工具,将命令执行的结果翻译成中文
 - <a href="https://github.com/mazezen/cgncode">cgncode: </a> 自动生成控制器层、service 层、数据层 CURD 代码
 - <a href="https://github.com/mazezen/mid">mid: </a> 高性能分布式 ID 生成系统
-- <a href="https://github.com/mazezen/ginblog">ginblog: </a> Web blog developed based on Go language (Gin+Gorm+MySQL)
-- <a href="https://github.com/mazezen/websshterminal">websshterminal:</a> go+echo+ssh+websocket+vue3 实现的 web 端通过 ssh 连接服务器
-- <a href="https://github.com/mazezen/goleveldbadmin">goleveldbadmin:</a> 基于 Go、Vu3、vite、Typescript、Element-Plus 实现的 leveldb 可视化平台
-- <a href="https://github.com/mazezen/daemon">daemon:</a> 守护程序. 被守护的程序挂掉之后,会自动将其唤醒
-- <a href="https://github.com/mazezen/admin-template">admin-template: </a>vue3+typescript+element-plus+pina+vite 后台管理系统模版
-- <a href="https://github.com/mazezen/ERC20BirdBosPermit">ERC20BirdBosPermit: </a>基于 EIP-2612 Permit 模式 的 ERC20 Token 合约完整实现，使用 Solidity ^0.8.20，带有 permit 支持（链下授权，链上使用 permit 实现无 gas ）
 - 更多仓库点击<a href="https://github.com/mazezen?tab=repositories">repositories</a> 查看
 
 <!-- - 🎓 CSU(master's degree) -->
