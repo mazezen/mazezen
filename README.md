@@ -33,6 +33,15 @@
         src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff"
         alt=""
     /></a>
+    <a href="https://www.ruby-lang.org/">
+      <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffffff" alt="Ruby" />
+    </a>
+    <a href="https://kotlinlang.org/">
+      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
+    </a>
+     <a href="https://www.swift.org/">
+      <img src="https://img.shields.io/badge/-swift-7F52FF?style=flat-square&logo=swift&logoColor=ffffff" alt="swift" />
+    </a>
     <a href="https://www.javascript.com/"
       ><img
         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"
@@ -50,12 +59,6 @@
     /></a>
     <a href="https://www.gnu.org/software/bash/">
       <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff" alt="Shell" />
-    </a>
-    <a href="https://www.ruby-lang.org/">
-      <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffffff" alt="Ruby" />
-    </a>
-    <a href="https://kotlinlang.org/">
-      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
     </a>
   </p>
 
