@@ -10,12 +10,12 @@
     </a>
     <a href="https://golang.google.cn/"
       ><img
-        src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff"
+        src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Golang&logoColor=ffffff"
         alt=""
     /></a>
     <a href="https://www.java.com/"
       ><img
-        src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff"
+        src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff"
         alt=""
     /></a>
     <a href="https://www.php.net/"
@@ -25,7 +25,7 @@
     /></a>
     <a href="https://www.python.org/"
       ><img
-        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff"
+        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"
         alt=""
     /></a>
     <a href="https://nodejs.org/"
@@ -40,26 +40,29 @@
       <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
     </a>
      <a href="https://www.swift.org/">
-      <img src="https://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=ffffff" alt="swift" />
+      <img src="https://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=ffffff" alt="Swift" />
     </a>
     <a href="https://www.javascript.com/"
       ><img
         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"
         alt=""
     /></a>
-    <a href="https://vuejs.org/"
-      ><img
-        src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff"
-        alt=""
-    /></a>
-    <a href="https://reactjs.org/"
-      ><img
-        src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"
-        alt=""
-    /></a>
+    <a href="https://www.lua.org/">
+      <img src="https://img.shields.io/badge/-lua-000080?style=flat-square&logo=gnu-bash&logoColor=ffffff" alt="Lua" />
+    </a>
     <a href="https://www.gnu.org/software/bash/">
       <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff" alt="Shell" />
     </a>
+    <a href="https://vuejs.org/"
+      ><img
+        src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=ffffff"
+        alt="Vue"
+    /></a>
+    <a href="https://reactjs.org/"
+      ><img
+        src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"
+        alt="React"
+    /></a>
   </p>
 
 ## Command Tools
