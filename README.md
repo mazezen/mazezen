@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
     </a>
      <a href="https://www.swift.org/">
-      <img src="https://img.shields.io/badge/-swift-7F52FF?style=flat-square&logo=swift&logoColor=ffffff" alt="swift" />
+      <img src="https://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=ffffff" alt="swift" />
     </a>
     <a href="https://www.javascript.com/"
       ><img
