@@ -1,5 +1,5 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mazezen&show_icons=true&theme=radical" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
-<img src="https://github-profile-trophy.vercel.app/?username=mazezen&theme=flat" alt="logo" height="160" align="right" style="margin: 5px;margin-bottom: 20px;" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=mazezen&theme=flat" alt="logo" height="160" align="right" style="margin: 5px;margin-bottom: 20px;" /> -->
 
 ## Welcome to mazezen GitHub👋
 
@@ -69,6 +69,7 @@
 
 - <a href="https://github.com/mazezen/command-fanyi">itools: </a> 命令行翻译工具,将命令执行的结果翻译成中文
 - <a href="https://www.npmjs.com/package/tstroncli">tstroncli:</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
+- <a href="https://www.npmjs.com/package/tstroncli">command-fanyi:</a> 命令行翻译工具,将命令行执行的结果翻译成中文 (CLI)
 
 ## Go Modules
 
