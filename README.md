@@ -72,26 +72,24 @@
 
 ## Go Modules
 
-- <a href="https://github.com/mazezen/itools">itools:</a> go 语言项目常用工具包集合
+- <a href="https://github.com/mazezen/itools">itools:</a> 项目常用工具包集合-Go
 - <a href="https://github.com/mazezen/count-repeat">count-repeat:</a> count repeat item in string slice
 - <a href="https://github.com/mazezen/loadbalance">loadbalance:</a> 随机、轮训、权重、哈希负载均衡
-
 - <a href="https://github.com/mazezen/go-scheduler">go-scheduler:</a> 定时任务调度器
-
 - <a href="https://github.com/mazezen/base62">base62:</a> base62
 
 <!-- ## Npm package
 
 - <a href="https://www.npmjs.com/package/tstroncli">tstroncli</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI) -->
 
-## **其他存储库**
+<!-- ## **其他存储库**
 
 - <a href="https://github.com/mazezen/echoframe">echoframe:</a> Based on the echo framework, build a convenient scaffolding
 - <a href="https://github.com/mazezen/ginframe">ginframe:</a> 基于 Go 语言 gin 框架搭建的可快速开发的微服务脚手架
 - <a href="https://github.com/mazezen/sql2orm">sql2orm:</a> Convert sql to go structure, support gorm and xorm
 - <a href="https://github.com/mazezen/cgncode">cgncode: </a> 自动生成控制器层、service 层、数据层 CURD 代码
 - <a href="https://github.com/mazezen/mid">mid: </a> 高性能分布式 ID 生成系统
-- 更多仓库点击<a href="https://github.com/mazezen?tab=repositories">repositories</a> 查看
+- 更多仓库点击<a href="https://github.com/mazezen?tab=repositories">repositories</a> 查看 -->
 
 <!-- - 🎓 CSU(master's degree) -->
 <!-- - - 🔗 [**mazezen's website**](http://caixiaoxin.cn) -->
