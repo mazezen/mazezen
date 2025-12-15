@@ -72,7 +72,7 @@
 
 ## Go Modules
 
-- <a href="https://github.com/mazezen/itools">itools:</a> 项目常用工具包集合-Go
+- <a href="https://github.com/mazezen/itools">itools:</a> Golang项目常用工具包集合
 - <a href="https://github.com/mazezen/base62">base62:</a> base62
 
 <!-- ## Npm package
