@@ -73,7 +73,6 @@
 ## Go Modules
 
 - <a href="https://github.com/mazezen/itools">itools:</a> 项目常用工具包集合-Go
-- <a href="https://github.com/mazezen/count-repeat">count-repeat:</a> count repeat item in string slice
 - <a href="https://github.com/mazezen/loadbalance">loadbalance:</a> 随机、轮训、权重、哈希负载均衡
 - <a href="https://github.com/mazezen/go-scheduler">go-scheduler:</a> 定时任务调度器
 - <a href="https://github.com/mazezen/base62">base62:</a> base62
