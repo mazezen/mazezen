@@ -65,7 +65,10 @@
     /></a>
   </p>
 
-## Command Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&hide=html)
+![mazezen's github stats](https://github-readme-stats.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40)
+
+<!-- ## Command Tools
 
 - <a href="https://github.com/mazezen/command-fanyi">command-fanyi: </a> 命令行翻译工具,将命令执行的结果翻译成中文
 - <a href="https://www.npmjs.com/package/tstroncli">tstroncli:</a> 与 TRON (波场) 区块链进行交互的命令行工具 (CLI)
@@ -73,7 +76,7 @@
 ## Go Modules
 
 - <a href="https://github.com/mazezen/itools">itools:</a> Golang项目常用工具包集合
-- <a href="https://github.com/mazezen/base62">base62:</a> base62
+- <a href="https://github.com/mazezen/base62">base62:</a> base62 -->
 
 <!-- ## Npm package
 
