@@ -33,15 +33,25 @@
         src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff"
         alt=""
     /></a>
-    <a href="https://www.ruby-lang.org/">
-      <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffffff" alt="Ruby" />
-    </a>
-    <a href="https://kotlinlang.org/">
-      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
-    </a>
-     <a href="https://www.swift.org/">
-      <img src="https://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=ffffff" alt="Swift" />
-    </a>
+    <a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" />
+</a>
+
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  </a>
+    
+  <a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/-Redis-D92C2F?style=flat-square&logo=redis&logoColor=ffffff" alt="Redis" />
+  </a>
+  
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
+  </a>
+  
+  <a href="https://www.mcp.io/">
+    <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=microsoft&logoColor=ffffff" alt="MCP" />
+  </a>
     <a href="https://www.javascript.com/"
       ><img
         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"
@@ -63,6 +73,9 @@
         src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"
         alt="React"
     /></a>
+      <a href="https://www.electronjs.org/">
+    <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff" alt="Electron" />
+  </a>
   </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&hide=html)
