@@ -13,7 +13,9 @@
 </a><a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff" alt="Java Badge"/>
 </a><a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff" alt="PHP Badge"/>
 </a><a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff" alt="Python Badge"/>
-</a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js Badge"/></a>
+</a><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js Badge"/>
+</a><a href="https://www.lua.org/"><img src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=gnu-bash&logoColor=ffffff" alt="Lua Badge"/>
+</a>
 
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL Badge"/>
 </a><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL Badge"/>
@@ -23,7 +25,6 @@
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript Badge"/>
 </a><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=ffffff" alt="Vue Badge"/>
 </a><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff" alt="React Badge"/>
-</a><a href="https://www.lua.org/"><img src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=gnu-bash&logoColor=ffffff" alt="Lua Badge"/>
 </a><a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff" alt="Electron Badge"/>
 </a><a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/></a>
 
