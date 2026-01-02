@@ -3,7 +3,7 @@
 
 ## Welcome to mazezen GitHub👋
 
-<h2 id="programming-language">Programming language</h2>
+<h2 id="programming-language">Skills</h2>
   <p>
     <a href="https://www.cprogramming.com/">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C Badge"/>
