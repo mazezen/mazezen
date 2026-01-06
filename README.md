@@ -27,12 +27,14 @@
 </a><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=ffffff" alt="Vue Badge"/>
 </a><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff" alt="React Badge"/>
 </a><a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff" alt="Electron Badge"/>
-</a><a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/></a>
-
-<a href="https://www.mcp.io/"><img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=microsoft&logoColor=ffffff" alt="MCP Badge"/></a>
+</a>
 
 <a href="https://tron.network/"><img src="https://img.shields.io/badge/-TRON-FF5F00?style=flat-square&logo=tron&logoColor=ffffff" alt="TRON Badge"/>
 </a><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff" alt="Ethereum Badge"/></a>
+
+<a href="https://www.mcp.io/"><img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=microsoft&logoColor=ffffff" alt="MCP Badge"/></a>
+
+<a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/></a>
 
 ---
 
