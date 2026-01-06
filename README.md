@@ -21,7 +21,7 @@
 </a><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL Badge"/>
 </a><a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-D92C2F?style=flat-square&logo=redis&logoColor=ffffff" alt="Redis Badge"/>
 </a><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff" alt="MongoDB Badge"/></a>
-<a href="https://qdrant.tech/"><img src="https://img.shields.io/badge/-Qdrant-000000?style=flat-square&logo=qdrant&logoColor=ffffff" alt="Qdrant Badge"/></a>
+<a href="https://qdrant.tech/"><img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=ffffff" alt="Qdrant Badge"/></a>
 
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript Badge"/>
 </a><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=ffffff" alt="Vue Badge"/>
