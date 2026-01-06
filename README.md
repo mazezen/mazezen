@@ -34,7 +34,8 @@
 
 <a href="https://www.mcp.io/"><img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=microsoft&logoColor=ffffff" alt="MCP Badge"/></a>
 
-<a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/></a>
+<a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/>
+</a>
 
 ---
 
