@@ -46,4 +46,4 @@
 - 🔧 [在线 SQL 转 ORM 工具](https://sql2orm.mazezen.com/)
 
 ### Online Telegram Bot
-- 🤖 [波场(TRON)交互电报机器人](https://t.me/SafeTronWalletBot)
+- 🤖 [波场(TRON)交互电报机器人(@SafeTronWalletBot)](https://t.me/SafeTronWalletBot)
