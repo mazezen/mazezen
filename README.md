@@ -2,8 +2,8 @@
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazezen&hide=html)
-![mazezen's github stats](https://github-readme-stats.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mazezen&hide=html)
+![mazezen's github stats](https://github-readme-stats-fast.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40)
 
 ---
 
