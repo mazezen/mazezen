@@ -39,7 +39,7 @@
 
 ---
 
-### Website
+### Online Website
 
 - 🔗 [**Mazezen's Website**](https://mazezen.com)
 - 🔗 [**Mazezen's Blog**](https://mazezen.github.io)
