@@ -41,9 +41,9 @@
 
 ### Online Website
 
-- 🔗 [**Mazezen's Website**](https://mazezen.com)
+- 🔗 [**Mazezen's Website**](https://mazezen.co)
 - 🔗 [**Mazezen's Blog**](https://mazezen.github.io)
-- 🔧 [在线 SQL 转 ORM 工具](https://sql2orm.mazezen.com/)
+- 🔧 [在线 SQL 转 ORM 工具](https://sql2orm.mazezen.co/)
 
 ### Online Telegram Bot
 - 🤖 [波场(TRON)交互电报机器人(@SafeTronWalletBot)](https://t.me/SafeTronWalletBot)
