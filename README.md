@@ -1,9 +1,15 @@
-## Welcome to mazezen GitHub👋
+Hi There 👋
+My name is maze zen (a.k.a maze).
+﻿
+💻 A software engineer who loves designing system architectures.
+❤️ Love open source. Appreciate all the open source contributors.
+🎨 Creator of <a href="https://mazezen.me>"> mazezen.me</a> 
+🛠️ Don't fall in love with the tech. Fall in love with problem solving.
+🏭 Love Looking for soem funs...
 
-### GitHub Stats
-
+<!-- ### GitHub Stats
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mazezen&hide=html)
-![mazezen's github stats](https://github-readme-stats-fast.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40)
+![mazezen's github stats](https://github-readme-stats-fast.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40) -->
 
 ---
 
