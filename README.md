@@ -7,7 +7,7 @@ My name is maze zen (a.k.a maze)
 
 ❤️ Love open source. Appreciate all the open source contributors.
 
-🎨 Creator of <a href="https://mazezen.me>"> mazezen.me</a> 
+🎨 Creator of <a href="https://mazezen.me"> mazezen.me</a> 
 
 🛠️ Don't fall in love with the tech. Fall in love with problem solving.
 
