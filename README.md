@@ -28,15 +28,3 @@
 </a><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff" alt="Ethereum Badge"/>
 </a> <a href="https://www.mcp.io/"><img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=microsoft&logoColor=ffffff" alt="MCP Badge"/>
 </a> <a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/></a>
-
----
-
-### Website
-
-- 🔗 [**Mazezen's Website**](https://mazezen.me)
-- 🔗 [**Mazezen's Blog**](https://mazezen.github.io)
-- 🔧 [在线 SQL 转 ORM 工具](https://sql2orm.mazezen.me/)
-
-### Telegram Bot
-- 🤖 [波场(TRON)交互电报机器人(@SafeTronWalletBot)](https://github.com/mazezen/tron-wallet-bot)
-- 🤖 [Telegram机器人实现入群自动验证](https://github.com/mazezen/verify-bot)
