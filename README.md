@@ -5,7 +5,7 @@ My name is maze zen (a.k.a maze)
 
 💻 A software engineer who loves designing system architectures.
 
-❤️ Love open source. Appreciate all the open source contributors.
+❤️ An open-source enthusiast . Engaged in software development .like C/C++ | Go | PHP | Python | JavaScript etc
 
 🎨 Creator of <a href="https://mazezen.me"> mazezen.me</a> 
 
@@ -19,6 +19,7 @@ My name is maze zen (a.k.a maze)
 
 ---
 
+<!--
 ### Skills
 <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C Badge"/>
 </a><a href="https://golang.google.cn/"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Golang&logoColor=ffffff" alt="Go Badge"/>
@@ -40,3 +41,4 @@ My name is maze zen (a.k.a maze)
 </a><a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff" alt="Ethereum Badge"/>
 </a> <a href="https://www.mcp.io/"><img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=microsoft&logoColor=ffffff" alt="MCP Badge"/>
 </a> <a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff" alt="Elasticsearch Badge"/></a>
+-->
