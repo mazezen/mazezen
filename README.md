@@ -9,6 +9,13 @@ My name is maze zen (a.k.a maze)
 
 🎨 Creator of <a href="https://mazezen.me"> mazezen.me</a> 
 
+❤️ Social Account
+  * Blog: https://mazezen.github.io
+  * X: https://x.com/mazezen24
+  * Telegram: https://t.me/yzily
+  * Reddit: https://www.reddit.com/user/Impressive-One-3272/
+  * Blue Sky: https://bsky.app/profile/mazezen.bsky.social
+
 🛠️ Don't fall in love with the tech. Fall in love with problem solving.
 
 🏭 Love Looking for soem funs...
