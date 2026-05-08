@@ -5,7 +5,7 @@ My name is maze zen (a.k.a maze)
 
 💻 A software engineer who loves designing system architectures.
 
-❤️ An open-source enthusiast . Engaged in software development .like C/C++ | Go | PHP | Python | JavaScript etc
+❤️ An open-source enthusiast . Engaged in software development .like C/C++ | Go | Java | PHP | Python | JavaScript etc
 
 🎨 Creator of <a href="https://mazezen.me"> mazezen.me</a> 
 
