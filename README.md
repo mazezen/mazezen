@@ -9,7 +9,7 @@ My name is maze zen (a.k.a maze)
 
 🎨 Creator of <a href="https://mazezen.me"> mazezen.me</a> 
 
-❤️ Social Account
+👉🏻 Social Account
   * Blog: https://mazezen.github.io
   * X: https://x.com/mazezen24
   * Telegram: https://t.me/yzily
