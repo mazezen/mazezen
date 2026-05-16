@@ -7,7 +7,9 @@ My name is maze zen (a.k.a maze)
 
 ❤️ An open-source enthusiast . Engaged in software development .like C/C++ | Go | Java | PHP | Python | JavaScript etc
 
-🎨 Creator of <a href="https://mazezen.me"> mazezen.me</a> 
+🕸️ Creator of <a href="https://mazezen.me"> mazezen.me</a> 
+
+📚 Create online book:  <a href="https://mazezen.github.io/linuxcmanual"> Linux C Manual</a> 
 
 👉🏻 Social Account
   * Blog: https://mazezen.github.io
