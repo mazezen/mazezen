@@ -22,9 +22,9 @@ My name is maze zen (a.k.a maze)
 
 🏭 Love Looking for soem funs...
 
-<!-- ### GitHub Stats
+ ### GitHub Stats
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mazezen&hide=html)
-![mazezen's github stats](https://github-readme-stats-fast.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40) -->
+![mazezen's github stats](https://github-readme-stats-fast.vercel.app/api?username=mazezen&show_icons=true&count_private=true&line_height=40)
 
 ---
 
